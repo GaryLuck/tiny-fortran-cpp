@@ -1,5 +1,5 @@
 # Tiny Fortran Interpreter
-
+NOTE: This is for the C version, but C++ version functions identically
 A tree-walking interpreter in C for a minimal but Turing-complete subset of Fortran.
 
 ## Build
